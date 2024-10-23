@@ -1,0 +1,14 @@
+G:\1293\game\pacman\bin\Debug\net7.0\pacman.exe
+G:\1293\game\pacman\bin\Debug\net7.0\pacman.deps.json
+G:\1293\game\pacman\bin\Debug\net7.0\pacman.runtimeconfig.json
+G:\1293\game\pacman\bin\Debug\net7.0\pacman.dll
+G:\1293\game\pacman\bin\Debug\net7.0\pacman.pdb
+G:\1293\game\pacman\obj\Debug\net7.0\pacman.GeneratedMSBuildEditorConfig.editorconfig
+G:\1293\game\pacman\obj\Debug\net7.0\pacman.AssemblyInfoInputs.cache
+G:\1293\game\pacman\obj\Debug\net7.0\pacman.AssemblyInfo.cs
+G:\1293\game\pacman\obj\Debug\net7.0\pacman.csproj.CoreCompileInputs.cache
+G:\1293\game\pacman\obj\Debug\net7.0\pacman.dll
+G:\1293\game\pacman\obj\Debug\net7.0\refint\pacman.dll
+G:\1293\game\pacman\obj\Debug\net7.0\pacman.pdb
+G:\1293\game\pacman\obj\Debug\net7.0\pacman.genruntimeconfig.cache
+G:\1293\game\pacman\obj\Debug\net7.0\ref\pacman.dll
